@@ -3,4 +3,4 @@ def gimmieHalf(x,y):
         return True
     else:
         return False
-print(gimmieHalf(10,6))
+print(gimmieHalf(2,4))
